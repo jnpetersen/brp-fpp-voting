@@ -13,9 +13,6 @@
 			"maxFPPVersion": "0",
 			"branch": "master",
 			"sha": "",
-			"platforms": [
-				"Raspberry Pi"
-			],
 			"dependencies": {
 				"plugins": [
 				],
